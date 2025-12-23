@@ -1,4 +1,5 @@
 Derek Loa
+
 Retail Operations Specialist → AI/LLM Systems | Building Human-Centered Solutions
 After 20+ years optimizing workflows in retail operations, I'm transitioning into AI/LLM development with a focus on prompt engineering, alignment, and practical applications that solve real business problems.
 
